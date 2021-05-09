@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-smrpn.vercel.app/api/top-langs/?username=smrpn&layout=compact&hide=lua,Makefile)](https://github.com/smrpn/smrpn)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smrpn&theme=tokyonight)
