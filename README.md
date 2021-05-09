@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smrpn&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smrpn&theme=gruvbox&&hide=python)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smrpn&show_icons=true&theme=gruvbox)
