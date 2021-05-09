@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - I’m currently learning distributed systems and networks.
 - How to reach me: @smrpn:matrix.org
-- My favorite language: Rust, Javascript
+- My favorite languages: Rust, Javascript
