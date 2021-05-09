@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smrpn&theme=gruvbox&&hide=jupyternotebook)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smrpn&show_icons=true&theme=gruvbox&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
