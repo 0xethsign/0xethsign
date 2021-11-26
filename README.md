@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smrpn&show_icons=true&theme=gruvbox&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!-- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smrpn&show_icons=true&theme=gruvbox&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
 - I’m currently learning blockchain and computer networks.
 - How to reach me: @smrpn:matrix.org, discord: smrpn_#7283
