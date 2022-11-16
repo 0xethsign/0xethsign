@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - I’m currently learning cryptography and zero-knowledge proofs.
 - How to reach me: @eth_sign on telegram, smrpn🦀#7283 on discord.
 - I'd love to collaborate on projects related to the EVM and MEV research.
-- Currently buidling @lucidly-finance
+- Currently buidling [@lucidlyfinance](https://twitter.com/LucidlyFinance)
