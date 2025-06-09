@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smrpn&show_icons=true&theme=gruvbox&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
-- Founder [@lucidlyfinance](https://twitter.com/LucidlyFinance)
+- dev [@lucidlyfinance](https://twitter.com/LucidlyFinance)
